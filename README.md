@@ -30,7 +30,6 @@ Feel free to explore, learn alongside me, or reach out for collaborations.
 - `/phase6-ai-engineering` — Scalable AI applications and multi-agent systems  
 
 ---
-
 ## How to use this repo
 
 Each phase folder contains:  
@@ -39,8 +38,7 @@ Each phase folder contains:
 - Summarized notes  
 - Setup instructions  
 
-Start wherever fits your level or follow my 6-month roadmap [link to roadmap.md if you create one].
-
+Start wherever fits your level or follow my 6-month roadmap obsidian://open?vault=ops2028&file=03_Code%2FAI%20and%20ML%2FRoadMap 
 ---
 
 Thanks for stopping by! 🚀  
